@@ -6,7 +6,6 @@
 🔭 Currently working on [RAiN](https://rain.com.ng) a Rivium AI Network marketplace that help connects businesses with trained AI providers who set up customer support, automation, reporting and knowledge systems.
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=raphrivers&" alt="raphrivers" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=raphrivers&show_icons=true&locale=en" alt="raphrivers" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphrivers&show_icons=true&locale=en&layout=compact" alt="raphrivers" /></p>
 
 
